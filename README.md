@@ -103,7 +103,11 @@ int main(void)
 ### OUTPUT
 CASE 1: LED ON 
 
+<img width="1239" height="563" alt="513060771-e47bcdd5-591d-4f6a-9350-d0a50fbb8b55" src="https://github.com/user-attachments/assets/1c59249d-9af2-420b-87fc-55f8c5e0363a" />
+
 CASE 2: LED OFF
+
+<img width="1299" height="620" alt="image" src="https://github.com/user-attachments/assets/65c91786-0a5a-4fe1-ad99-6cf45a2082bd" />
 
 ---
 ### RESULT
